@@ -8,4 +8,11 @@ I give some basic practice codes for learn tkinter
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/16771fce-b290-4dff-a83c-08740250a0ac)
 
-Code🔗
+<h3>basic_window</h3> 
+
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/7bc7ff6d-7af2-423e-9495-5687538dde11)
+
+<h3>widgets_update</h3>
+
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/e75b4a42-3bd5-410c-8001-390a7cae4611)
+
