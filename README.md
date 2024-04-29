@@ -16,3 +16,10 @@ I give some basic practice codes for learn tkinter
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/e75b4a42-3bd5-410c-8001-390a7cae4611)
 
+<pre>
+<b>Widgets can be updated with config</b> 
+  
+  Ex.Label.config(text="some new text")
+     Label['text']='some new text'
+  
+</pre>
