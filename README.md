@@ -27,5 +27,6 @@ I give some basic practice codes for learn tkinter
 <pre>
   -->Tkinter has inbuilt variabels that are designed to work  with widgets
   -->They are automatically updated by a widget and they update a widget
-</pre>
+  -->Although they still store basic data like integers,strings & boolean
+</pre> 
 
