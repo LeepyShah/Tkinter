@@ -39,6 +39,14 @@ I give some basic practice codes for learn tkinter
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/b43eabfd-35a3-48a3-8110-69c2e32ae140)
 
+<h3>Buttons</h3><br>
+There are 3 major kind of buttons<br>
+<pre>
+1.Button
+2.Checkbutton
+3.Radiobutton
+</pre>
+But to use them properly you need tkinter variabels
 
 
 
