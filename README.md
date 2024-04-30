@@ -29,4 +29,17 @@ I give some basic practice codes for learn tkinter
   -->They are automatically updated by a widget and they update a widget
   -->Although they still store basic data like integers,strings & boolean
 </pre> 
+<h4>tkinter_var</h4>
+
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/9e41e486-8119-4ff3-9efe-f2b05b5ff617)
+
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/7349a119-8be7-465d-8744-2f1fdee28040)
+
+<b>After clicking button </b>
+
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/b43eabfd-35a3-48a3-8110-69c2e32ae140)
+
+
+
+
 
