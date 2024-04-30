@@ -25,9 +25,7 @@ I give some basic practice codes for learn tkinter
 </pre>
 <h3>Tkinter Variables</h3>
 <pre>
-  Tkinter has inbuilt variabels that are designed to work  with widgets
-
-  
-  They are automatically updated by a widget and they update a widget
+  -->Tkinter has inbuilt variabels that are designed to work  with widgets
+  -->They are automatically updated by a widget and they update a widget
 </pre>
 
