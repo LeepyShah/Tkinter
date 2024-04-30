@@ -29,4 +29,4 @@ I give some basic practice codes for learn tkinter
   
   They are automatically updated by a widget and they update a widget
 </pre>
-<pre></pre>
+
