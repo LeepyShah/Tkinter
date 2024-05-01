@@ -51,6 +51,6 @@ But to use them properly you need tkinter variabels
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/7149fb3b-0121-4b94-ae00-0f72f2dce95b)
 
-
+<h3>Functions with arguments <sub>(inside a button)</sub></h3>
 
 
