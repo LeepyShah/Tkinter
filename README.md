@@ -57,6 +57,7 @@ Command=lambda:print('argument')<br>
 Alternatively ,you can also create a function that retruns another function
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/4fac4b53-febc-4814-885f-7cf1263d394b)
+
 After clicking button output in terminal is
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/e171c43f-1e3c-49e4-af0a-7b05692ff679)
