@@ -56,4 +56,5 @@ But to use them properly you need tkinter variabels
 Command=lambda:print('argument')<br>
 Alternatively ,you can also create a function that retruns another function
 
-![Uploading image.png…]()
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/4fac4b53-febc-4814-885f-7cf1263d394b)
+
