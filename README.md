@@ -55,6 +55,7 @@ But to use them properly you need tkinter variabels
 <p>We already solve this !</p>
 Command=lambda:print('argument')<br>
 Alternatively ,you can also create a function that retruns another function
+<h3>fun_with_argument.py</h3>
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/4fac4b53-febc-4814-885f-7cf1263d394b)
 
