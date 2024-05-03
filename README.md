@@ -59,8 +59,23 @@ Alternatively ,you can also create a function that retruns another function
 
 ![image](https://github.com/LeepyShah/Tkinter/assets/158757009/4fac4b53-febc-4814-885f-7cf1263d394b)
 
+![image](https://github.com/LeepyShah/Tkinter/assets/158757009/e171c43f-1e3c-49e4-af0a-7b05692ff679)
+
+<h3>Event Binding</h3>
+Events can be lots of things<br>
+<br>
+ Keyword inputs<br>
+ Widgets can be changed<br>
+ Widgets can be selected/Unselected<br>
+ Mouse click/motion/wheel<br>
+<br>
+These event can be observed and used<br>
+Eg.Run a function on a button press<br><br>
+You need to bind events to a widget<br>
+Eg. Widget.bind(event,function)<br>
+<br>
 After clicking button output in terminal is
 
-![image](https://github.com/LeepyShah/Tkinter/assets/158757009/e171c43f-1e3c-49e4-af0a-7b05692ff679)
+
 
 
