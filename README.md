@@ -77,7 +77,9 @@ You need to bind events to a widget<br>
 Eg. Widget.bind(event,function)<br>
 <br>
 <h4>Format:</h4>modifier-type-detail<br>
-                 Alt-Keypress-a
+                 Alt-Keypress-a<br>
+<h5>link for reference</h5>            
+[Link Text]("https://www.pythontutorial.net/tkinter/tkinter-event-binding/")
 
 
 
